@@ -1,18 +1,4 @@
-amin
-nour
-ahmed 
-tests
-aya
-reham
-class{
-
-	if (){
-
-
-	}
-
-if (){
-
-}
+void method()
+{
 
 }
